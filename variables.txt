@@ -1,0 +1,4 @@
+var1="Howdy"
+name="Raj"
+location="Hyderabad"
+dept="IT"
